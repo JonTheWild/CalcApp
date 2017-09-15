@@ -1,0 +1,10 @@
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Jon\Documents\StateOfMichigan\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
